@@ -1,0 +1,14 @@
+D:\C#\пианинко\obj\Debug\net6.0\пианинко.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\пианинко\obj\Debug\net6.0\пианинко.AssemblyInfoInputs.cache
+D:\C#\пианинко\obj\Debug\net6.0\пианинко.AssemblyInfo.cs
+D:\C#\пианинко\obj\Debug\net6.0\пианинко.csproj.CoreCompileInputs.cache
+D:\C#\пианинко\bin\Debug\net6.0\пианинко.exe
+D:\C#\пианинко\bin\Debug\net6.0\пианинко.deps.json
+D:\C#\пианинко\bin\Debug\net6.0\пианинко.runtimeconfig.json
+D:\C#\пианинко\bin\Debug\net6.0\пианинко.dll
+D:\C#\пианинко\bin\Debug\net6.0\пианинко.pdb
+D:\C#\пианинко\obj\Debug\net6.0\пианинко.dll
+D:\C#\пианинко\obj\Debug\net6.0\refint\пианинко.dll
+D:\C#\пианинко\obj\Debug\net6.0\пианинко.pdb
+D:\C#\пианинко\obj\Debug\net6.0\пианинко.genruntimeconfig.cache
+D:\C#\пианинко\obj\Debug\net6.0\ref\пианинко.dll
